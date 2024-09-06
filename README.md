@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Check my website!
-fely.dev[https://fely.dev]
+Check my website [fely.dev](https://fely.dev)!
 <!--
 **felidobrinin/felidobrinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
